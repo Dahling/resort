@@ -1,3 +1,10 @@
 .nav {
   display: inline-block;
 }
+
+p {
+  text-align: center;
+  font-size: 25px;
+  font-style: normal;
+  font-family: sans-serif;
+}
